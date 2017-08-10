@@ -1,6 +1,12 @@
-# snipcart-nuxt
+# A Tutorial to Bundle Cockpit CMS & Nuxt.js in a full JAMstack
 
-> Nuxt.js project
+![cockpit-snipcart](https://snipcart.com/media/166719/nuxt-js.png)
+
+This repo contains the code for a demo e-commerce web app built with Cockpit CMS, Nuxt.js and Snipcart.
+
+>[See live demo]()
+
+>[Read full tutorial]()
 
 ## Build Setup
 
